@@ -23,6 +23,18 @@
             "category": "tool",
             "size": "2.53 KB",
             "file": "store/待办事项.mx"
+        },
+        {
+            "id": "com.mxos.aiassistant",
+            "name": "AI助手",
+            "developer": "MXOS",
+            "description": "基于DeepSeek API的智能AI助手",
+            "version": "1.0.0",
+            "icon": "robot",
+            "color": "blue",
+            "category": "tool",
+            "size": "3.99 KB",
+            "file": "store/AI助手.mx"
         }
     ],
     "version": "1.0.0",
