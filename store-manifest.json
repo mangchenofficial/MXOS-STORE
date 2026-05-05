@@ -59,6 +59,18 @@
             "category": "tool",
             "size": "3.39 KB",
             "file": "store/时钟计时器.mx"
+        },
+        {
+            "id": "com.mxapp.whack",
+            "name": "打地鼠",
+            "developer": "MXOS Team",
+            "description": "经典打地鼠休闲游戏",
+            "version": "1.0.0",
+            "icon": "game-controller",
+            "color": "cyan",
+            "category": "game",
+            "size": "3.08 KB",
+            "file": "store/打地鼠.mx"
         }
     ],
     "version": "1.0.0",
