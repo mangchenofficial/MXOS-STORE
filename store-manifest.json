@@ -5,11 +5,11 @@
             "name": "贪吃蛇",
             "developer": "MXOS Team",
             "description": "经典贪吃蛇休闲游戏",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "icon": "package",
             "color": "blue",
             "category": "tool",
-            "size": "3.01 KB",
+            "size": "11.96 KB",
             "file": "store/贪吃蛇.mx"
         },
         {
