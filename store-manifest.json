@@ -11,6 +11,18 @@
             "category": "tool",
             "size": "3.01 KB",
             "file": "store/贪吃蛇.mx"
+        },
+        {
+            "id": "com.mxapp.todolist",
+            "name": "待办事项",
+            "developer": "MXOS Team",
+            "description": "一个简单实用的待办事项管理器",
+            "version": "1.0.0",
+            "icon": "package",
+            "color": "blue",
+            "category": "tool",
+            "size": "2.53 KB",
+            "file": "store/待办事项.mx"
         }
     ],
     "version": "1.0.0",
