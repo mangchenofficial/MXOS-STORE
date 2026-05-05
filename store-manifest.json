@@ -18,8 +18,8 @@
             "developer": "MXOS Team",
             "description": "一个简单实用的待办事项管理器",
             "version": "1.0.0",
-            "icon": "package",
-            "color": "blue",
+            "icon": "note",
+            "color": "green",
             "category": "tool",
             "size": "2.53 KB",
             "file": "store/待办事项.mx"
