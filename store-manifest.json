@@ -1,1 +1,18 @@
-
+{
+    "apps": [
+        {
+            "id": "com.mxapp.snake",
+            "name": "贪吃蛇",
+            "developer": "MXOS Team",
+            "description": "经典贪吃蛇休闲游戏",
+            "version": "1.0.0",
+            "icon": "package",
+            "color": "blue",
+            "category": "tool",
+            "size": "3.01 KB",
+            "file": "store/贪吃蛇.mx"
+        }
+    ],
+    "version": "1.0.0",
+    "lastUpdated": "2026-05-05"
+}
