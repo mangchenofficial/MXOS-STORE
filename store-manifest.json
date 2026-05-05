@@ -71,6 +71,18 @@
             "category": "game",
             "size": "3.08 KB",
             "file": "store/打地鼠.mx"
+        },
+        {
+            "id": "com.mxos.musicplayer",
+            "name": "空壳音乐中心",
+            "developer": "MXOS Dev",
+            "description": "基于网易云插件的在线音乐播放器",
+            "version": "1.0.0",
+            "icon": "package",
+            "color": "blue",
+            "category": "tool",
+            "size": "4.89 KB",
+            "file": "store/空壳音乐中心.mx"
         }
     ],
     "version": "1.0.0",
