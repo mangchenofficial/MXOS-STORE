@@ -35,6 +35,18 @@
             "category": "tool",
             "size": "3.99 KB",
             "file": "store/AI助手.mx"
+        },
+        {
+            "id": "com.mxos.calculator",
+            "name": "计算器",
+            "developer": "MXOS",
+            "description": "美观实用的液态玻璃计算器",
+            "version": "1.0.0",
+            "icon": "calculator",
+            "color": "orange",
+            "category": "tool",
+            "size": "3.3 KB",
+            "file": "store/计算器.mx"
         }
     ],
     "version": "1.0.0",
